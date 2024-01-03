@@ -174,8 +174,4 @@ body {
     .preco {
         grid-template-columns: 30% 70%;
     }
-
-    .rodape {
-        display: block;
-    }
 }
